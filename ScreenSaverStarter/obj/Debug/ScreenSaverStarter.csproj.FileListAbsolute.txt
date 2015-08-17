@@ -12,3 +12,9 @@ E:\Netvico\ScreenSaverStarter\WindowsFormsApplication2\WindowsFormsApplication2\
 E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\bin\Debug\WindowsFormsApplication2.exe.config
 E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\obj\Debug\WindowsFormsApplication2.exe
 E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\obj\Debug\WindowsFormsApplication2.pdb
+E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\bin\Debug\WindowsFormsApplication2.exe
+E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\bin\Debug\WindowsFormsApplication2.pdb
+E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\obj\Debug\ScreenSaverStarter.csprojResolveAssemblyReference.cache
+E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Netvico\ScreenSaverStarter\ScreenSaverStarter\obj\Debug\ScreenSaverStarter.csproj.GenerateResource.Cache
